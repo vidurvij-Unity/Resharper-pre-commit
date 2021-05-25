@@ -1,0 +1,6 @@
+
+- id: "ResharperHook"
+  name: "ResharperHook"
+  entry: ReSharperPreCommit.sh
+  language: "script"
+  description: "This is an example hook to demonstrate how to create a pre-commit hook"
